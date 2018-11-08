@@ -26,5 +26,4 @@ pyplot.title("Customer's references")
 pyplot.axis('equal')
 pyplot.show()
 
-#6 dong connect
 client.close()
